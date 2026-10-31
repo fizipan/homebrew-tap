@@ -1,6 +1,6 @@
 cask "buku-token" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "ddec00e55040dc295cfe612d1ad1eb25f912c54f11f3d78b22a35dbdca13c96b"
 
   url "https://github.com/fizipan/buku-token/releases/download/v#{version}/Buku-Token_#{version}_aarch64.dmg"
   name "Buku Token"
